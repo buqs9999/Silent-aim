@@ -47,7 +47,7 @@ getgenv().Aiming = {
     HitChance = 100,
 
     Selected = nil,
-    SelectedPart = nil,
+    SelectedPart = HumanoidRootPart,
 
     TargetPart = {"Head", "HumanoidRootPart", "RightFoot"},
 
