@@ -61,7 +61,7 @@ getgenv().Aiming = {
         },
         Players = {
             LocalPlayer,
-            228443817,
+            228443817
         }
     }
 }
